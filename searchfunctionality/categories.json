@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "json-server 1",
+      "description": "json-server node modules"
+      
+    },
+    {
+      "id": 2,
+      "title": "json",
+      "description": "json-server2 blogit project"
+    },
+    {
+      "id": 3,
+      "title": "python",
+      "description": "json-server3"
+    }
+  ]
+ 
+}
